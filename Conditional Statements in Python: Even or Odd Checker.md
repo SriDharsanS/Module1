@@ -25,6 +25,9 @@ else:
 
 ## Output
 
-![alt text](p1.png)
+<img width="1262" height="161" alt="image" src="https://github.com/user-attachments/assets/e9199afb-8dd7-4cb1-bcbb-043ce67bf499" />
+
+## Result
+
 
 ## Result
